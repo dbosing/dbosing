@@ -1,4 +1,4 @@
-## Hi there, my name is **Dawn Bosing** a student at *Bow Valley College* 👋
+## Hi there, my name is **Dawn Bosing**, a student at *Bow Valley College* 👋
 - 🔭 I’m currently working on programming projects
 - 🌱 I’m currently learning Software Development
 - 💬 Ask me about anything
